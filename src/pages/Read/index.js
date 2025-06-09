@@ -141,8 +141,8 @@ function Read() {
                                 <i className="fa-solid fa-arrow-right"></i> từ bàn phím để chuyển chương.
                                 <i className="fa-solid fa-arrow-down"></i> để tự động cuộn trang sau 6 giây.
                             </p>
-                            <span>Nếu truyện bị lỗi vui lòng liên hệ qua Telegram:
-                                <a href="https://t.me/phohoccode_04" target="_blank">phohoccode</a>
+                            <span>Nếu truyện bị lỗi vui lòng liên hệ qua Whatsapp:
+                                <a href="https://wa.me/+84774495599" target="_blank">VietNovel</a>
                             </span>
                         </div>
                         <div className={cx('actions')}>
