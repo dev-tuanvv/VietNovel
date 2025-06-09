@@ -56,7 +56,7 @@ function NavBar() {
                     <NavLink to='/'>
                         <img src={logo} alt='logo' />
                     </NavLink>
-                    <h4>PHOMANGA</h4>
+                    <h4>vietnovel</h4>
                 </div>
                 {!isMobile &&
                     <ul className={cx('list')}>
